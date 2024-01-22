@@ -1,0 +1,5 @@
+import{a as p,j as l,p as i,l as o,x as m,o as _,k as e}from"./index-IY-MfvKr.js";import{E as r,b as d,a as g}from"./el-image-viewer--agiQoK4.js";const u="/images/33.jpg",v=p({__name:"MediaView",setup(w){const t=l(`
+# Official Media
+[Zoo Negara Malaysia ](https://www.pelago.co/en-MY/activity/pbuw3-zoo-negara-malaysia-kuala-lumpur/?utm_source=google&utm_medium=pfmax&utm_campaign=acq-gg-apac-my_-_my-my-en-pfmax-gen-promo-code-sep2022&gad_source=1&gclid=CjwKCAiAkp6tBhB5EiwANTCx1FkWs7lbscyDZ4pPPcsx0hhPl-oq8okDGZD4rkEsep_ZM-ipDpLWwBoCs8YQAvD_BwE)
+[Chengdu Giant Panda Breeding Research Base](https://www.panda.org.cn/cn/animal/feeding/)
+`);return(h,y)=>{const a=d,n=g,s=m("v-md-preview"),c=r;return _(),i(c,null,{default:o(()=>[e(a,{span:6,class:"hidden-xs-only",style:{opacity:"0"}}),e(a,{span:12,style:{height:"calc(100vh - 120px)"}},{default:o(()=>[e(n,{src:u,style:{width:"100%",height:"300px"},fit:"cover"}),e(s,{text:t.value},null,8,["text"])]),_:1}),e(a,{span:6,class:"hidden-xs-only",style:{opacity:"0"}})]),_:1})}}});export{v as default};
